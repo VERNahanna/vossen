@@ -1,0 +1,10 @@
+.item-carousel{
+    background-color: rgb(250, 165, 247);
+    
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+}
+.members-carousel{
+    text-align: center;
+}
